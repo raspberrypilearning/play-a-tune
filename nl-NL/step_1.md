@@ -1,6 +1,6 @@
-Create a list of notes and durations to make a tune.
+Maak een lijst met noten en hun tijdsduur om een deuntje te maken.
 
-You can then `play` the tune:
+Je kunt vervolgens het deuntje `afspelen`:
 
 --- code ---
 ---
