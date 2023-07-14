@@ -1,6 +1,6 @@
-Create a list of notes and durations to make a tune.
+Crée une liste de notes et de durées pour composer une mélodie.
 
-You can then `play` the tune:
+Tu peux alors `jouer` la mélodie :
 
 --- code ---
 ---
